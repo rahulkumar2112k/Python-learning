@@ -133,4 +133,3 @@ f = None
 print(type(f)) # Output: <class 'NoneType'>
 
 
- 
