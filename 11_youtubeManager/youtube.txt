@@ -1,14 +1,6 @@
 [
     {
-        "name": "dsa with c++",
-        "time": "50 hrs"
-    },
-    {
-        "name": "Dsa with java",
-        "time": "30 hrs"
-    },
-    {
-        "name": "Dsa with python",
-        "time": "10 hrs"
+        "name": "dsa with me",
+        "time": "40 hrs"
     }
 ]
